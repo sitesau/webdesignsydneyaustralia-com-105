@@ -1,0 +1,22 @@
+{
+  "wheel_id": 681,
+  "structure": "umbrella",
+  "slug": "webdesignsydneyaustralia-com-105",
+  "project": "web-design-sydney-questions-to-ask-f67f0307e6354805fa3c940f6373",
+  "parent_t1_ref": "webdesignsydneyaustralia-com-152",
+  "node_role": "feeder",
+  "money_target": "webdesignsydneyaustralia.com.au",
+  "primary_kw": "web design sydney questions to ask",
+  "intended_url": "https://sites-e470-2.web.app/web-design-sydney-questions-to-ask-f67f0307e6354805fa3c940f6373/",
+  "tier": "T2",
+  "writeback_nonce": "7ddb5c50064d4006",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/web-design-sydney-how-to-choose-7227f593b39793f9ea4e08a4cd2d540/",
+      "anchor": "Web Design Sydney How to Choose: Choosing the Right Provider",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
